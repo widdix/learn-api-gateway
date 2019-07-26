@@ -19,3 +19,7 @@ For Serverless Framework based apps you have to install Node.js 10.x and the Ser
 ```
 npm install -g serverless@1.48.2
 ```
+
+## More Labs
+
+We offer AWS workshops tailored to your needs. See [widdix/learn-*](https://github.com/widdix?q=learn-) for more labs.
